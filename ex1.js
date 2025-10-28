@@ -29,7 +29,8 @@ while(true){
         break
     }
 }
+console.log(" salve! ")
 
 // quando clicar ctrl + espaço antes das operaçoes somar dividir... 
 // ele encontra a pasta ex61 e exporta as funcões, 
-// sendo possivel escrever em uma pasta a parte e deixando o codigo mais curto e limpo
+// sendo possivel escrever em uma pasta a parte e deixando o codigo mais curto e limpo git commit
