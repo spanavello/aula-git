@@ -29,7 +29,7 @@ while(true){
         break
     }
 }
-console.log(" salve! ")
+console.log(" salvet! ")
 
 // quando clicar ctrl + espaço antes das operaçoes somar dividir... 
 // ele encontra a pasta ex61 e exporta as funcões, 
